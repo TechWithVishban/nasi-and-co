@@ -58,6 +58,15 @@ nasi-and-co/
 
 ## Screenshots
 
+### Desktop Homepage
+![Desktop Homepage](assets/screenshots/desktop-homepage.png)
+
+### Desktop Menu
+![Desktop Menu](assets/screenshots/desktop-menu.png)
+
+### Mobile Homepage
+![Mobile Homepage](assets/screenshots/mobile-homepage.jpeg)
+
 
 ## Disclaimer
 
